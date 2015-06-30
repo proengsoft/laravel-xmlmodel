@@ -1,19 +1,10 @@
-#Salvaon
+#XmlModel
 [![Latest Stable Version](https://poser.pugx.org/markcell/salvaon/v/stable.svg)](https://packagist.org/packages/markcell/salvaon) [![Total Downloads](https://poser.pugx.org/markcell/salvaon/downloads.svg)](https://packagist.org/packages/markcell/salvaon) [![Latest Unstable Version](https://poser.pugx.org/markcell/salvaon/v/unstable.svg)](https://packagist.org/packages/markcell/salvaon) [![License](https://poser.pugx.org/markcell/salvaon/license.svg)](https://packagist.org/packages/markcell/salvaon)
 
 Package for Laravel based on Eloquent to manage XML files with SimpleXMLElement and xpath.
 
 ##Usage
 Install the package through Composer.
-
-```js
-{
-    "require": {
-        "laravel/framework": "4.2.*",
-        "markcell/salvaon": "dev-master" // or "markcell/salvaon": "1.0.*"
-    }
-}
-```
 
 
 Edit 'app/config/app.php', and add a new item to the 'aliases' array:
