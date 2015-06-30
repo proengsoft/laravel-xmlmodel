@@ -1,5 +1,5 @@
 {
-    "name": "markcell/salvaon",
+    "name": "proengsoft/laravel-xmlmodel",
     "description": "Package for Laravel based on Eloquent to manage XML files.",    
     "keywords": ["xml", "laravel", "eloquent", "xpath"],
     "license": "MIT",
